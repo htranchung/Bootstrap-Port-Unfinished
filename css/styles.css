@@ -1,0 +1,21 @@
+footer {
+    background-image: linear-gradient(white, grey);
+    position: relative;
+}
+
+body {
+    font-family: 'Lora';
+    background: url('../img/background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-size: 100%;
+}
+
+#welcome {
+    color: grey;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+
+
