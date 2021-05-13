@@ -1,7 +1,12 @@
 First project using Bootstrap (UNFINISHED)
-Home Page
+<h1 align="center"> Home Page </h1>
+
 ![](images/home.png)
-Experience Page
+
+<h1 align="center"> Experience Page </h1>
+
 ![](images/experience.png)
-Contact Page
+
+<h1 align="center"> Contact Page </h1>
+
 ![](images/contact.png)
