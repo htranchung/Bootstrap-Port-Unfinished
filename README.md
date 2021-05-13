@@ -1,4 +1,4 @@
-During the course of the bootcamp we had to make our own project to present and to add to our portfolio. This was my first project using Bootstrap. (UNFINISHED)
+This was my first ever project using Bootstrap. I was learning a lot about bootstrap and wanted to make something I could add to a portfolio. (UNFINISHED)
 
 <h1 align="center"> Home Page </h1>
 
